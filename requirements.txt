@@ -13,7 +13,7 @@ parso==0.5.2
 pickleshare==0.7.5
 Pillow==7.0.0
 prompt-toolkit==3.0.2
-Pygments==2.5.2
+Pygments==2.7.4
 pyparsing==2.4.6
 python-dateutil==2.8.1
 six==1.14.0
